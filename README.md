@@ -209,21 +209,6 @@ shopez/
 - View platform statistics
 - User moderation
 
-## 🔑 Demo Credentials
-
-```
-Admin Account:
-Email: admin@shopez.com
-Password: admin123
-
-User Account:
-Email: user@shopez.com
-Password: password123
-
-Seller Account:
-Email: seller@shopez.com
-Password: seller123
-```
 
 ## 🎨 Key Features Implementation
 
@@ -300,22 +285,10 @@ Password: seller123
 2. Deploy the build folder
 3. Set API endpoint in environment variables
 
-## 🐛 Troubleshooting
-
-### MongoDB Connection Issues
-- Ensure MongoDB is running locally or check connection string
-- Verify network access in MongoDB Atlas
-
-### CORS Errors
-- Check backend CORS configuration
-- Ensure frontend and backend URLs match
-
-### Port Already in Use
-- Change PORT in .env file
-- Or terminate process using the port
+ Or terminate process using the port
 
 ## 📝 Contributing
-
+Contributions are welcome.
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
@@ -325,15 +298,11 @@ Password: seller123
 
 This project is open source and available under the MIT License.
 
-## 👨‍💼 Team
+👨‍💻 Author
+Pranav Ingle
 
-- **Team Lead**: Omkar Surve
-- **Members**: Prajwal Wakle, Pralhad Deshpande, Pranav Ingle
+GitHub: https://github.com/pranavingle
 
-## 📧 Support
 
-For support, email: support@shopez.com
 
----
 
-**Happy Shopping! 🛍️**
