@@ -300,6 +300,7 @@ This project is open source and available under the MIT License.
 
 👨‍💻 Author
 Pranav Ingle
+
 Omkar Surve
 
 GitHub: https://github.com/pranavingle
