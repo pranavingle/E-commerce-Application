@@ -302,7 +302,6 @@ This project is open source and available under the MIT License.
 
 Pranav Ingle
 
-Omkar Surve
 
 GitHub: https://github.com/pranavingle
 
